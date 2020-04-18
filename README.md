@@ -1,0 +1,2 @@
+# covid-hunters-backend
+backend
